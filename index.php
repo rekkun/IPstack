@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<title>Check IP Locations - DNMTECHS</title>
-<body>
+
 	<?php
                     sendJsontoServer();
 
@@ -41,7 +38,4 @@
 						print "$obj";
 					}
     ?>
-</body>
-
-</html>						
-				
+	
